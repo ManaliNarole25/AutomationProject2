@@ -1,0 +1,2 @@
+[32mINFO    [0m test_e2e:test_e2e.py:32 getting all the products
+[32mINFO    [0m test_e2e:test_e2e.py:48 entering country name ind
